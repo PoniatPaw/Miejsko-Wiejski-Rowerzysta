@@ -7,5 +7,7 @@
     <link rel="stylesheet" href="stylemenu.css" />
     <script src="myscripts.js"></script>
   </head>
-  <body></body>
+  <body>
+   <h1>Miejsko Wiejski Rowerzysta</h1>
+  </body>
 </html>
