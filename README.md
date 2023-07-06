@@ -88,7 +88,7 @@ A few of the things you can do with our app:
 * We plan our meeting using Google Calendar
 
 ## 👩‍💻👨‍💻 Authors 
-- Marta Banach
+- Marta Barbach
 - Magda Maciejewska
 - Paweł Godlewski
 - Paweł Poniatowski
