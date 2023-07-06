@@ -77,6 +77,9 @@ A few of the things you can do with our app:
 * [RACI](https://docs.google.com/spreadsheets/d/11S827w8Btz1dSFR0CIFqiIqCcSY5B2Ipb0v64-Ahd8g/edit?usp=sharing)
 * [Gantt chart](https://docs.google.com/spreadsheets/d/1PqRzkpqLTinU8QwHhy4Q_KXb1A_53ETF/edit?usp=sharing&ouid=112980867996703370400&rtpof=true&sd=true)
 * [WBS](https://docs.google.com/document/d/1yOhzQZl7qb0nUyNIT8qkm3Fs3dOVHKGfTF0oKBOzGdY/edit?usp=sharing)
+* [User stories](https://miro.com/welcomeonboard/dllzb05LMXI0a01zd2NDS1NjQ0ZlN2JrNThxdnd0MWFBYUZQV0dEV3NtYzgzclhMVEpUSms1U2Y3Qmc1cHNCNHwzNDU4NzY0NTU2MjAwMzA3NDg2fDI=?share_link_id=165127680517)
+* [Road map](https://miro.com/welcomeonboard/WG0xdDdaYkdZUG9vMzJjYXllNUlJbzlSeVFWb0dzWDBLUXBMVDFwRHdFcU9QMTNSODZ0RzZTUjF4RDRyMVJ4MHwzNDU4NzY0NTU2MjAwMzA3NDg2fDI=?share_link_id=62296517274)
+* [Mind maps](https://miro.com/welcomeonboard/cFcwQ25qb0R5VUJ4MWpmdEhYSEcyd0FjNWZIdXFMNkxQMmQ0SGpETkE3ckp2Z21aOWRlQ2hsMWpDZkZjZDg4WnwzNDU4NzY0NTU2MjAwMzA3NDg2fDI=?share_link_id=192214076611)
 
 ## 🔗 Links 
 We use:
