@@ -26,7 +26,7 @@
 - [Features](#features)
 - [Documentation](#documentation)
 - [Tools we use](#tools-we-use)
-- [Authors](#authors)
+- [Authors](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
