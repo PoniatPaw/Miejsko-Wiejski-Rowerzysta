@@ -98,9 +98,10 @@ A few of the things you can do with our app:
  Thank you! 😊
 </p>
 <p align="center">
-    <img alt="app" title="GitPoint" src="https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/assets/138799924/092c6721-5697-4a80-8cd7-12987c0d918b" width="500">
+    <img alt="app" title="GitPoint" src="https://media.giphy.com/media/xUA7aN1MTCZx97V1Ic/giphy.gif" width="500">
   </a>
 </p>
+
 
 
 
