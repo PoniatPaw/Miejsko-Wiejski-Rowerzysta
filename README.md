@@ -22,10 +22,10 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Tools we use](#tools-we-use)
+- [Introduction](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-introduction)
+- [Features](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-features)
+- [Documentation](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-documentation)
+- [Tools we use](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-tools-we-use)
 - [Authors](https://github.com/PawelPoniatowski/Miejsko-Wiejski-Rowerzysta/blob/main/README.md#-authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
