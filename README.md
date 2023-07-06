@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- The MIEJSKO - WIEJSKI app is dedicated to tourists and the local Suwalszczyzna community who want to actively explore the region by bicycle.
+ The MIEJSKO - WIEJSKI, app is dedicated to tourists and the local Suwalszczyzna community who want to actively explore the region by bicycle.
 </p>
 
 <p align="center">
