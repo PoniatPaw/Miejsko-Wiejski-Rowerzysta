@@ -25,7 +25,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Documentation](#documentation)
-- [Additionals links](#build-process)
+- [Tools we use](#tools-we-use)
 - [Authors](#authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -81,8 +81,7 @@ A few of the things you can do with our app:
 * [Road map](https://miro.com/welcomeonboard/WG0xdDdaYkdZUG9vMzJjYXllNUlJbzlSeVFWb0dzWDBLUXBMVDFwRHdFcU9QMTNSODZ0RzZTUjF4RDRyMVJ4MHwzNDU4NzY0NTU2MjAwMzA3NDg2fDI=?share_link_id=62296517274)
 * [Mind maps](https://miro.com/welcomeonboard/cFcwQ25qb0R5VUJ4MWpmdEhYSEcyd0FjNWZIdXFMNkxQMmQ0SGpETkE3ckp2Z21aOWRlQ2hsMWpDZkZjZDg4WnwzNDU4NzY0NTU2MjAwMzA3NDg2fDI=?share_link_id=192214076611)
 
-## 🔗 Links 
-We use:
+## 🔗 Tools we use
 * We manage tasks in [Jira](https://simplexitylabs.atlassian.net/jira/software/projects/DAOPM/boards/2/timeline)
 * Our document repositorium is in [Confluence](https://simplexitylabs.atlassian.net/wiki/x/zYA2)
 * We communicate using [Slack](https://join.slack.com/t/daopmgr3/shared_invite/zt-1yps4qj38-fkUdt7Tdh2ZLR2yBPopBNg)
