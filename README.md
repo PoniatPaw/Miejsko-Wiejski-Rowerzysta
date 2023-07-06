@@ -83,7 +83,7 @@ A few of the things you can do with our app:
 
 ## 🔗 Tools we use
 * We manage tasks in [Jira](https://simplexitylabs.atlassian.net/jira/software/projects/DAOPM/boards/2/timeline)
-* Our document repositorium is in [Confluence](https://simplexitylabs.atlassian.net/wiki/x/zYA2)
+* Our document repository is in [Confluence](https://simplexitylabs.atlassian.net/wiki/x/zYA2)
 * We communicate using [Slack](https://join.slack.com/t/daopmgr3/shared_invite/zt-1yps4qj38-fkUdt7Tdh2ZLR2yBPopBNg)
 * We plan our meeting using Google Calendar
 
