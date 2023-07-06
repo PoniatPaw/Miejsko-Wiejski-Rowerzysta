@@ -25,18 +25,17 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Documentation](#documentation)
-- [Contributors](#contributors)
-- [Build Process](#build-process)
+- [Additionals links](#build-process)
 - [Authors](#authors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction 👋
+## 👋 Introduction 
 The MIEJSKO - WIEJSKI application project is dedicated to tourists and the local Suwalszczyzna community who want to actively explore the region by bicycle. Users of the application will be able to browse the map of the Suwalszczyzna region, capture their routes and save them in the application's database, navigate the routes saved in the application's database, and create an interactive map together with other users by saving photos, points of interest, tourist attractions, accommodations along the route. The application is intended to support the strategic objective of developing tourism in the Suwalki region.
 
 **Available for both iOS and Android.**
 
-## Features ⛲
+## ⛲ Features 
 A few of the things you can do with our app:
 
 <p align="center">
@@ -72,20 +71,26 @@ A few of the things you can do with our app:
 - Implement user profiles to save personalized route preferences, past activities, and favorite routes.
 - Allow users to set preferences for notifications, privacy settings, and route visibility.
 
-## Documentation 📝
+## 📝 Documentation 
 * [Project charter](https://drive.google.com/file/d/1vtMb_W1jVSHEKHXEtUsRerfRJ2pafvTw/view?usp=sharing)
 * [Risk analysis](https://docs.google.com/spreadsheets/d/1zXWoZq57BZe50J7HLAwxyBan4eX0EJeW/edit?usp=sharing&ouid=112980867996703370400&rtpof=true&sd=true)
 * [RACI](https://docs.google.com/spreadsheets/d/11S827w8Btz1dSFR0CIFqiIqCcSY5B2Ipb0v64-Ahd8g/edit?usp=sharing)
 * [Gantt chart](https://docs.google.com/spreadsheets/d/1PqRzkpqLTinU8QwHhy4Q_KXb1A_53ETF/edit?usp=sharing&ouid=112980867996703370400&rtpof=true&sd=true)
 * [WBS](https://docs.google.com/document/d/1yOhzQZl7qb0nUyNIT8qkm3Fs3dOVHKGfTF0oKBOzGdY/edit?usp=sharing)
 
+## 🔗 Links 
+We use:
+* We manage tasks in [Jira](https://simplexitylabs.atlassian.net/jira/software/projects/DAOPM/boards/2/timeline)
+* Our document repositorium is in [Confluence](https://simplexitylabs.atlassian.net/wiki/x/zYA2)
+* We communicate using [Slack](https://join.slack.com/t/daopmgr3/shared_invite/zt-1yps4qj38-fkUdt7Tdh2ZLR2yBPopBNg)
+* We plan our meeting using Google Calendar
 
-## Authors 👩‍💻👨‍💻
+## 👩‍💻👨‍💻 Authors 
 - Marta Banach
 - Magda Maciejewska
 - Paweł Godlewski
 - Paweł Poniatowski
-- Paweł Sczęsny
+- Paweł Szczęsny
 
 <p align="center">
  Thank you! 😊
